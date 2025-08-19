@@ -14,7 +14,8 @@ public class TypeCasting {
         System.out.println(d);
         //error if byte d=a*b/c;
         int mm='a';
-        System.out.println(mm);
+        System.out.println(mm);//prints ASCII value
+        
 
         
 
